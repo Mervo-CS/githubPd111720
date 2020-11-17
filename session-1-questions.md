@@ -3,3 +3,6 @@
 
 2. How do you plan to use GitHub in your classroom?
     I intend to use Github as a demonstration of some workplace experiences that my students may have after graduation.
+    
+3. What are ways that GitHub might help you and your students manage code?
+    I might be able to have students upload assignments and changes to assignments to a single repository so that I don't have to try and chase emails or classroom assignments.
