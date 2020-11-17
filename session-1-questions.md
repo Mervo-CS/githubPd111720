@@ -6,3 +6,4 @@
     
 3. What are ways that GitHub might help you and your students manage code?
     I might be able to have students upload assignments and changes to assignments to a single repository so that I don't have to try and chase emails or classroom assignments.
+
